@@ -1,3 +1,3 @@
 # samplerepo
 
-Ronald Cuello
+Este proyecto es de Ronald Cuello
